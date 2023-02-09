@@ -1,0 +1,18 @@
+body {
+    color: aliceblue;
+background-color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p {
+    color: cornflowerblue;
+    font-weight: normal;
+    align-items: center;
+    font-size: 30px;
+}
+a {
+    color: aliceblue;
+    list-style-type: none;
+    font-size: 20px;
+    align-items: center;
+    display: block;
+}
